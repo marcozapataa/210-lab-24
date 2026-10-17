@@ -31,7 +31,7 @@ int main() {
     while (fin1 >> colors[i++]);
     fin1.close();
 
-    // Create list of goats
+    // Create set of goats
     set<Goat> trip;
 
     // Main menu loop
